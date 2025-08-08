@@ -33,6 +33,7 @@ QR-Code-Generator/
 Output
 
 🎯 Live Demo
+https://lambent-hamster-2fdce1.netlify.app/
 
 
 
