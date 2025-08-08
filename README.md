@@ -33,5 +33,6 @@ QR-Code-Generator/
 Output
 
 🎯 Live Demo
-https://creative-platypus-adbf82.netlify.app/
+
+
 
